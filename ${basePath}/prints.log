@@ -1,0 +1,4 @@
+23:27:37.861 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x3069e9c787ae035b
+23:28:17.752 [main] INFO  org.testng.annotations.Test - page got opened
+23:28:20.531 [main] INFO  org.testng.annotations.Test - maximising page
+23:28:33.488 [main] INFO  org.testng.annotations.Test - Successfully login
